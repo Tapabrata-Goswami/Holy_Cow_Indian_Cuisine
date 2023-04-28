@@ -49,7 +49,7 @@ textarea {
 }
 
 .container.no-margin {
-    width: 100% margin: 0px auto;
+    width: 100%; margin: 0px auto;
 }
 
 a:hover {
@@ -3514,7 +3514,7 @@ img {
         font-size: 10vw;
     }
     .box {
-        width: 100%%;
+        width: 100%;
     }
 }
 
